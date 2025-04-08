@@ -37,11 +37,11 @@ console.log(text5.includes("world"))
 console.log(text5.includes("is"))
 //starts with
 let text6 = "Career Catalyst is important";
-console.log(text6.startsWith("journey"));            // false
+console.log(text6.startsWith("journey"));           
 console.log(text6.startsWith("Career"));
 //ends with
 //starts with
-console.log(text6.endsWith("journey"));            // false
+console.log(text6.endsWith("journey"));            
 console.log(text6.endsWith("important"));  
 //split
 const str7="a,b,c"
